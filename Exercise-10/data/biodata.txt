@@ -1,0 +1,6 @@
+Nama: Danu
+Umur: 1
+Alamat: 2
+Nama: 2
+Umur: 031
+Alamat: I0321031
